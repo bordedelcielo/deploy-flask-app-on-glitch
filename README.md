@@ -17,6 +17,6 @@ import public repo
 
         pip3 install -r requirements.txt
 
-- click into glitch's .env file and load it with the applications environment variables.
+- Click into glitch's .env file and load it with the applications environment variables.
 
 Fantastic! Project deployed.
