@@ -8,7 +8,6 @@ import public repo
         workers = 5
         bind = "0.0.0.0:8080"
 
-
 - Create a script file, start.sh. If you have ever deployed to Heroku, this essentially replaces the Procfile.
 
         gunicorn "app:create_app()"
